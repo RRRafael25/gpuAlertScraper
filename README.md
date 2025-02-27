@@ -1,6 +1,6 @@
 # **GPU Stock Alert**
 
-**v1.0.1 - Initial Release**
+**v1.0.0 - Initial Release**
 
 🔹 **Purpose**
 
