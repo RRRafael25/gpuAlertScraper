@@ -2,6 +2,10 @@
 
 **v1.0.1 - Initial Release**
 
+🔹 **Purpose**
+
+- Made this because I have a life and can't camp out the store or spend my entire day refreshing the page. So I figured it would be nice to have something running at home or on a cloud, and to just get an alert on my phone when there is one in stock. That way if I'm at work, school, or home, I'll know when one is in stock near me. That way, if I can, I can head to the store when I get the noti. Additionally, it will only check for the models I want, specficially those at MSRP. 
+
 🔹 **Overview**
 
 - As I have struggled to find a 5070 TI, I decided it was a good opportunity to create a python script that just checked the stores near me, and alerted me when an MSRP Card was available. My plan is to just leave this running on my main PC, and the SMS pops up on my watch. I'm aware it's not the most efficient, but I made it in a rush
