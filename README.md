@@ -106,43 +106,43 @@ I tried making the instructions as clear as possible, so this should hopefully w
 **Location**
 - Find the "storeLocations" variable, you will notice is just numbers. All you have to do is change the numbers according to the guide beneath:
 
-Ajax: 1
-Barrie: 2
-Brampton: 4
-Brossard: 67
-Burlington: 3
-Burnaby: 56
-Cambridge: 66
-Coquitlam: 57
-Etobicoke: 5
-Gatineau: 60
-Halifax: 62
-Hamilton: 8
-Kanata: 9
-Kingston: 11
-Laval: 12
-London Masonville: 71
-Marche Central: 68
-Markham Unionville: 17
-Mississauga: 15
-Montreal: 46
-Newmarket: 18
-North York: 64
-Oakville: 69
-Oshawa: 23
-Ottawa Downtown: 44
-Ottawa Merivale: 20
-Ottawa Orleans: 21
-QC Vanier: 73
-Richmond: 58
-Richmond Hill: 26
-St Catharines: 27
-Surrey: 72
-Toronto Down Town 284: 28
-Toronto Kennedy: 29
+Ajax: 1  
+Barrie: 2  
+Brampton: 4  
+Brossard: 67  
+Burlington: 3  
+Burnaby: 56  
+Cambridge: 66  
+Coquitlam: 57  
+Etobicoke: 5  
+Gatineau: 60  
+Halifax: 62  
+Hamilton: 8  
+Kanata: 9  
+Kingston: 11  
+Laval: 12  
+London Masonville: 71  
+Marche Central: 68  
+Markham Unionville: 17  
+Mississauga: 15  
+Montreal: 46  
+Newmarket: 18  
+North York: 64  
+Oakville: 69  
+Oshawa: 23  
+Ottawa Downtown: 44  
+Ottawa Merivale: 20  
+Ottawa Orleans: 21  
+QC Vanier: 73  
+Richmond: 58  
+Richmond Hill: 26  
+St Catharines: 27  
+Surrey: 72  
+Toronto Down Town 284: 28  
+Toronto Kennedy: 29  
 Vancouver Broadway: 51
 Vaughan: 32
-Waterloo: 33
+Waterloo: 33  
 West Island: 35
 Whitby: 34
 
