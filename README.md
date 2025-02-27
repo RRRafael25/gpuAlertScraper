@@ -168,6 +168,6 @@ Whitby: 34
 - Take note of the numbers, go to the validIds variable, and just replace the numbers on the existing one, and delete or add any necessary numbers. If you're searching for a different product than the 5070 Ti, you will have to delete the ones that don't belong to that product.
 
 
-## ***Happy Hunting***
+## ***Happy Hunting Everyone***
 
 
