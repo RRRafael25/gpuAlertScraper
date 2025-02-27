@@ -144,11 +144,11 @@ St Catharines: 27
 Surrey: 72  
 Toronto Down Town 284: 28  
 Toronto Kennedy: 29  
-Vancouver Broadway: 51
-Vaughan: 32
-Waterloo: 33  
-West Island: 35
-Whitby: 34
+Vancouver Broadway: 51  
+Vaughan: 32  
+Waterloo: 33    
+West Island: 35  
+Whitby: 34  
 
 - Just put in whatever numbers correspond to your desired locations, delete the ones that aren't and you're good to go.
 
