@@ -11,6 +11,13 @@ from twilio.rest import Client
 from dotenv import load_dotenv
 
 
+validIds = {"product_card_268823", "product_card_269441", "product_card_269440", "product_card_268304"}
+storeLocations = ['56', '57', '58', '72', '51']
+
+
+# URL to scrape
+page = 'https://www.canadacomputers.com/en/search?s=RTX+5070+Ti'
+
 #Env Variables
 load_dotenv()
 
@@ -23,8 +30,7 @@ phoneNumber = os.getenv('PHONE_NUMBER')
 client = Client(accountId, authToken)
 
 
-# URL to scrape
-page = 'https://www.canadacomputers.com/en/search?s=RTX+5070+Ti'
+
 
 # Chrome options for stealth
 opt = uc.ChromeOptions()
@@ -43,7 +49,7 @@ driver.get(page)
 driver.implicitly_wait(10)
 
 # Store location data- id_store
-storeLocations = ['56', '57', '58', '72', '51']
+
 
 # Random sleep times for human-like behavior
 randomTime = random.uniform(1, 5)
@@ -79,7 +85,6 @@ while True:
             # Loop to check product availability
             for div in childDivs:
                 divID = div.get_attribute('id')
-                validIds = {"product_card_268823", "product_card_269441", "product_card_269440", "product_card_268304"}
                 if divID in validIds:
                     #Checking for the specific products I want
                     try:
