@@ -1,6 +1,10 @@
 # **GPU Stock Alert**
 
-**v1.0.1 - Initial Release**
+**v1.0.0 - Initial Release**
+
+🔹 **Purpose**
+
+- Made this because I have a life and can't camp out the store or spend my entire day refreshing the page. So I figured it would be nice to have something running at home or on a cloud, and to just get an alert on my phone when there is one in stock. That way if I'm at work, school, or home, I'll know when one is in stock near me. That way, if I can, I can head to the store when I get the noti. Additionally, it will only check for the models I want, specficially those at MSRP. 
 
 🔹 **Overview**
 
@@ -106,45 +110,45 @@ I tried making the instructions as clear as possible, so this should hopefully w
 **Location**
 - Find the "storeLocations" variable, you will notice is just numbers. All you have to do is change the numbers according to the guide beneath:
 
-Ajax: 1
-Barrie: 2
-Brampton: 4
-Brossard: 67
-Burlington: 3
-Burnaby: 56
-Cambridge: 66
-Coquitlam: 57
-Etobicoke: 5
-Gatineau: 60
-Halifax: 62
-Hamilton: 8
-Kanata: 9
-Kingston: 11
-Laval: 12
-London Masonville: 71
-Marche Central: 68
-Markham Unionville: 17
-Mississauga: 15
-Montreal: 46
-Newmarket: 18
-North York: 64
-Oakville: 69
-Oshawa: 23
-Ottawa Downtown: 44
-Ottawa Merivale: 20
-Ottawa Orleans: 21
-QC Vanier: 73
-Richmond: 58
-Richmond Hill: 26
-St Catharines: 27
-Surrey: 72
-Toronto Down Town 284: 28
-Toronto Kennedy: 29
-Vancouver Broadway: 51
-Vaughan: 32
-Waterloo: 33
-West Island: 35
-Whitby: 34
+Ajax: 1  
+Barrie: 2  
+Brampton: 4  
+Brossard: 67  
+Burlington: 3  
+Burnaby: 56  
+Cambridge: 66  
+Coquitlam: 57  
+Etobicoke: 5  
+Gatineau: 60  
+Halifax: 62  
+Hamilton: 8  
+Kanata: 9  
+Kingston: 11  
+Laval: 12  
+London Masonville: 71  
+Marche Central: 68  
+Markham Unionville: 17  
+Mississauga: 15  
+Montreal: 46  
+Newmarket: 18  
+North York: 64  
+Oakville: 69  
+Oshawa: 23  
+Ottawa Downtown: 44  
+Ottawa Merivale: 20  
+Ottawa Orleans: 21  
+QC Vanier: 73  
+Richmond: 58  
+Richmond Hill: 26  
+St Catharines: 27  
+Surrey: 72  
+Toronto Down Town 284: 28  
+Toronto Kennedy: 29  
+Vancouver Broadway: 51  
+Vaughan: 32  
+Waterloo: 33    
+West Island: 35  
+Whitby: 34  
 
 - Just put in whatever numbers correspond to your desired locations, delete the ones that aren't and you're good to go.
 
